@@ -1,0 +1,158 @@
+html {
+  font-family: "Oswald"; 
+  margin-top: 6.8em;
+  background-color: #fafafa;
+
+}
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+    
+  border-bottom: 1px solid #e3e3e8;
+    background-color: #fafafa;
+}
+#logo {
+  float: left;
+  font-size: 3em;
+  margin: ;
+  padding: .4em;
+  text-decoration: none;
+  color: #333;
+  border-right: 1px solid #e3e3e8;
+  transition: .5s all;
+}
+#logo:hover {
+  color: #fafafa;
+  background-color: #333;
+}
+
+.logo {
+  float: left;
+  font-size: 3em;
+  margin: ;
+  padding: .4em;
+  text-decoration: none;
+  color: #333;
+  border-right: 1px solid #e3e3e8;
+  transition: .5s all;
+}
+.logo:hover {
+  color: #fafafa;
+  background-color: #333;
+}
+
+
+
+
+
+nav {
+  float: left;
+}
+nav ul {
+  list-style-type: none;
+  margin-bottom: auto;
+  padding: 2.2em 2em;
+}
+nav ul li {
+  display: inline;
+  padding: 0 .4em;
+}
+nav ul li a {
+  color: #333;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.6em;
+  padding-bottom: 1.3em;
+  transition: .5s color;
+}
+nav ul li a:hover {
+  border-bottom: 3px solid #333;
+}
+.home {
+  color: #ff4629;
+  border-bottom: 3px solid #333;
+}
+
+.home:hover {
+     color: #3b5998;
+    
+}
+
+.affiliation {
+  color: #ff4629;
+  border-bottom: 3px solid #333;
+}
+
+.affiliation:hover {
+     color: #3b5998;
+    
+}
+.ada {
+  color: #ff4629;
+  border-bottom: 3px solid #333;
+}
+.ada:hover {
+     color: #3b5998;
+    
+}
+.portmafia {
+    
+   color: #ff4629;
+  border-bottom: 3px solid #333; 
+}
+
+.portmafia:hover {
+  color: #3b5998;
+
+}
+
+.theguild{
+       color: #ff4629;
+  border-bottom: 3px solid #333; 
+    
+}
+
+.theguild:hover {
+  color: #00acee;
+}
+
+
+
+.logo{
+       color: #ff4629;
+  border-bottom: 3px solid #333; 
+    
+}
+
+.logo:hover {
+  color: #00acee;
+}
+
+
+
+
+
+.parallax-effect {
+      background-image: url("https://wallpapercave.com/wp/wp1973201.jpg");
+      min-height: 700px; 
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+   
+      }
+      .parallax-effect + div{
+      height:1000px;
+background-image: linear-gradient(90deg, rgba(255,255,255,1) 36%, rgba(195,195,195,0.7819502801120448) 83%, rgba(167,167,167,0.5606617647058824) 100%);
+      font-size:36px; 
+      text-align: center; 
+      font-family: 'Raleway', Arial, sans-serif;
+            border: 5px solid black;
+  border-radius: 5px;
+
+
+      }
+
+
